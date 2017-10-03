@@ -1,30 +1,24 @@
-# This is a large heading
 
-## This is a smaller heading
+# Jerome Cholewa
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+### Geography
 
-- This is
-- an unordered
-- list
+I live in the city of Seoul
 
-1. This is
-2. an ordered
-3. list
+### Reading
 
-Here is `some code` in the middle of a sentence.
+Three of my favorite books are:
 
-```
-This is
-a block
-of code
-```
+- *Les Fourmis* by B. Werber
+- *Animal Farm* by George Orwell
 
-Here is how you make [a link](https://www.wikipedia.org/).
+### Food
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+I love
+1. Hamburgers by **Jeremy's**
+2. Italian Pasta in Rome
+3. Crepes bretonnes
 
-<img src="https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg" />
+### Contact
+
+The best way to get in touch with me is [on Github](https://github.com/jeromecholewa/)
