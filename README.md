@@ -1,5 +1,8 @@
 
 # Jerome Cholewa
+![This is my picture](https://drive.google.com/file/d/0B7M7SSx2pXP-bGxVS3plN0piTnM/view?usp=sharing)
+![this is another picture](https://drive.google.com/drive/folders/0B7M7SSx2pXP-WXl2RzlfdTNFQ1U)
+
 
 ### Geography
 
