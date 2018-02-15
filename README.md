@@ -3,6 +3,7 @@
 ![This is my picture](https://drive.google.com/uc?id=0B7M7SSx2pXP-bGxVS3plN0piTnM)
 
 ![another personal picture](https://www.dropbox.com/s/lxp3enygeun2wof/cholewa_business_S_smile.jpg?raw=1)
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 
 ### Geography
 
